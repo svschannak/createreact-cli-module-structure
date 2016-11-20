@@ -12,6 +12,7 @@
     "create-react-module": "bin/create-module.js",
     "create-react-project": "bin/start-project.js"
   },
+  "repository": "github:svschannak/createreact-cli-module-structure",
   "dependencies": {
     "colors": "^1.1.2",
     "create-react-app": "^0.6.0",
